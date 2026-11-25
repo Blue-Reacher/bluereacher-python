@@ -165,4 +165,4 @@ python -c "import bluereacher; print(bluereacher.__version__)"
 
 ## License
 
-MIT. Copyright 2026 Sagency International LLC (Blue Reacher).
+MIT. Copyright 2026 Blue Reacher.

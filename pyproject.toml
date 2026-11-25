@@ -9,7 +9,7 @@ description = "Official Python client for the Blue Reacher API: send iMessage fr
 readme = "README.md"
 requires-python = ">=3.8"
 license = { text = "MIT" }
-authors = [{ name = "Sagency International LLC (Blue Reacher)" }]
+authors = [{ name = "Blue Reacher" }]
 keywords = ["imessage", "sms", "rcs", "api", "sdk", "bluereacher", "messaging"]
 classifiers = [
   "Development Status :: 4 - Beta",
