@@ -10,7 +10,7 @@ from .client import BlueReacher
 from .errors import BlueReacherError
 from .webhooks import construct_event, verify_webhook_signature
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 
 __all__ = [
     "BlueReacher",
